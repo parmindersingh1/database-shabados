@@ -1,4 +1,5 @@
-import conventional from '@commitlint/config-conventional'
+// @ts-ignore
+import conventional from '@commitlint/config-angular'
 import { RuleConfigSeverity, type UserConfig } from '@commitlint/types'
 
 export default {
